@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "TFG-GuillermoMena",
+"productName": "Greedy Algorithms Visualizer",
 "productVersion": "0.1",
 "dataUrl": "BUILD TFG.data.unityweb",
 "wasmCodeUrl": "BUILD TFG.wasm.code.unityweb",
